@@ -26,13 +26,13 @@
   <div class="projeto">
     <h3>Projeto 1</h3>
     <p>Descrição do projeto.</p>
-    <a href="https://github.com/seu-usuario/projeto1" target="_blank">Ver no GitHub</a>
+    <a href="https://editor.p5js.org/startmarcelo/sketches/QRUMfwL12" target="_blank">Ver no Alura</a>
   </div>
 
   <div class="projeto">
     <h3>Projeto 2</h3>
     <p>Descrição do projeto.</p>
-    <a href="https://github.com/seu-usuario/projeto2" target="_blank">Ver no GitHub</a>
+    <a href="https://editor.p5js.org/Raphaelromanus/sketches/247lMky4Y" target="_blank">Ver no Alura</a>
   </div>
 </body>
 </html>
